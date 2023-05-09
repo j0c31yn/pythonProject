@@ -21,6 +21,5 @@ points = ((700, 400),
           (720, 360))
 arcade.draw_polygon_filled(points, arcade.color.DARK_GREEN)
 
-
 arcade.finish_render()
 arcade.run()
