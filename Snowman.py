@@ -13,7 +13,7 @@ def snowman(x,y):
     arcade.draw_circle_filled(265, 410, 5, arcade.color.BLACK)
     arcade.draw_circle_filled(235, 410, 5, arcade.color.BLACK)
 def main():
-    snowman(100,300)
+    snowman(250,250)
 
 arcade.finish_render()
 arcade.run()
